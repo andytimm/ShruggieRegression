@@ -1,5 +1,5 @@
 # ShruggieRegression
-In Richard McElreath's **Statistical Rethinking**, he talks about the dangers of "stargazing". That is, running a regression, and looking only at the \*'s, which signify the level of statisitcal significance of a coefficient. To help you avoid this sort of analysis, I've recruited the help of several shruggies ( ¯\\\_(ツ)\_/¯), with various arm lengths to remind you looking only at the \*'s isn't a very good idea. (Original idea due to [Kevin Reuning](https://twitter.com/KevinReuning).
+In Richard McElreath's **Statistical Rethinking**, he talks about the dangers of "stargazing". That is, running a regression, and looking only at the \*'s, which signify the level of statisitcal significance of a coefficient. To help you avoid this sort of analysis, I've recruited the help of several shruggies ( ¯\\\_(ツ)\_/¯), with various arm lengths to remind you looking only at the \*'s isn't a very good idea. (Original idea due to [Kevin Reuning](https://twitter.com/KevinReuning).)
 
 You can find the function in `ShruggieRegression.R`.
 
