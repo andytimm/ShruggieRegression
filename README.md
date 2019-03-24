@@ -3,7 +3,7 @@ In Richard McElreath's **Statistical Rethinking**, he talks about the dangers of
 
 For example, below, you'd be tempted to stare at all those stars:
 
-```r
+```
 > data("iris")
 > summary(lm(Sepal.Length ~ . , data = iris))
 
@@ -32,7 +32,7 @@ F-statistic: 188.3 on 5 and 144 DF,  p-value: < 2.2e-16
 
 Fortunately, we have our friends the shruggies to help "clarify" your regression output:
 
-```r
+```
 > ShruggieRegression(summary(lm(Sepal.Length ~ . , data = iris)))
 
 Call:
