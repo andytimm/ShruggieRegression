@@ -24,5 +24,3 @@ ShruggieRegression <- function(summaryObject) {
   
 
 }
-
-ShruggieRegression(summary(lm(Sepal.Length ~ . , data = iris)))
