@@ -1,2 +1,2 @@
 # ShruggieRegression
-"Improve" your regression summaries by replacing *'s with ¯\\__(ツ)__/¯
+"Improve" your regression summaries by replacing *'s with ¯\\\_(ツ)\_/¯
